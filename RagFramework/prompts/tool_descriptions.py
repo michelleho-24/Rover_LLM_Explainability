@@ -1,0 +1,17 @@
+TOOL_DESCRIPTIONS = {
+    "run_simulation": "",
+    "run_scenario": "",
+    "set_mission_start": "",
+    "evaluate_poi": "",
+    "evaluate_poi_list": "",
+    "replan_with_map": "",
+    "run_arbitrary_region": "",
+    "select_custom_sites": "",
+    "change_order": "",
+    "risk_assessment": "",
+    "show_plot": "",
+    "read_source_code": "",
+    "read_data_file": "",
+    "search_mission_document": "",
+    "list_available_files": "",
+}
